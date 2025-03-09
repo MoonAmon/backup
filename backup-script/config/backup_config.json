@@ -1,0 +1,5 @@
+{
+  "source_directory": "path/to/source/directory",
+  "backup_directory": "path/to/backup/directory",
+  "file_types": [".txt", ".jpg", ".png", ".docx", ".xlsx", ".pdf"]
+}
